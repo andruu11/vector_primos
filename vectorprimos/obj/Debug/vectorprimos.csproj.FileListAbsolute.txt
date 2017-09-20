@@ -1,0 +1,10 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\vectorprimos\bin\Debug\vectorprimos.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\vectorprimos\bin\Debug\vectorprimos.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\vectorprimos\bin\Debug\vectorprimos.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\vectorprimos\obj\Debug\vectorprimos.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\vectorprimos\obj\Debug\vectorprimos.pdb
+D:\ayudantia\proyectos-visualstudio\vectorprimos\vectorprimos\bin\Debug\vectorprimos.exe.config
+D:\ayudantia\proyectos-visualstudio\vectorprimos\vectorprimos\bin\Debug\vectorprimos.exe
+D:\ayudantia\proyectos-visualstudio\vectorprimos\vectorprimos\bin\Debug\vectorprimos.pdb
+D:\ayudantia\proyectos-visualstudio\vectorprimos\vectorprimos\obj\Debug\vectorprimos.exe
+D:\ayudantia\proyectos-visualstudio\vectorprimos\vectorprimos\obj\Debug\vectorprimos.pdb
